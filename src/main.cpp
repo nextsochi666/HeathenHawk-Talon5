@@ -8,9 +8,9 @@
 #include <M5Unified.h>
 #include <SD.h>
 #include "pins.h"
-#include "src/display/display_driver.h"
-#include "src/comms/comms_manager.h"
-#include "src/hawk/hawk_pet.h"
+#include "display/display_driver.h"
+#include "comms/comms_manager.h"
+#include "hawk/hawk_pet.h"
 
 #define HH_VERSION  "v1.0.0-talon5"
 
